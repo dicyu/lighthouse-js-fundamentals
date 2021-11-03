@@ -1,0 +1,9 @@
+// global variables
+
+// code 1
+const sayHello = function(name) {
+  console.log("Hello, " + name);
+}
+sayHello("Caliban");
+sayHello("Miranda");
+sayHello("Ferdiand");
